@@ -10,4 +10,4 @@ I'm a Junior Geographer specializing in automating spatial data pipelines, cloud
 * **Data Delivery:** Streamlit (Web Dashboards), Interactive Mapping (Folium/Plotly), Git.
 
 ---
-* **Location:** Brasília, Brazil 🇧🇷
+* **Location:** Brasília, Brazil
